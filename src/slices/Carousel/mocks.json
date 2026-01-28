@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Horse"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Fugiat sint fugiat ipsum quis occaecat esse aliqua sint exercitation do veniam adipisicing. Ad excepteur aliquip in et officia tempor non voluptate. Aute elit ea ipsum occaecat enim cillum irure aliquip elit incididunt."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
